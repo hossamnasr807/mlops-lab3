@@ -1,0 +1,4 @@
+[core]
+    remote = mylocal1
+['remote "mylocal1"']
+    url = ../../dvc_remote
